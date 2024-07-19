@@ -2,7 +2,7 @@
  *
  *	@file		timer.cpp
  *
- *	@brief		ターマー処理
+ *	@brief		タイマー処理
  *
  *	@date		create : 2023/12/25
  *

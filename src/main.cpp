@@ -3,7 +3,7 @@
 #include "timer.hpp"
 
 // ピアノのキーに対応するピン
-int keys[] = {
+const int keys[] = {
     2,   // ピン2: ド
     3,   // ピン3: ド# (黒鍵盤)
     4,   // ピン4: レ
@@ -20,7 +20,7 @@ int keys[] = {
 };
 
 // ピアノのキーに対応する周波数
-int frequencies[] = {
+const int frequencies[] = {
     262,  // ド
     277,  // ド# (黒鍵盤)
     294,  // レ
